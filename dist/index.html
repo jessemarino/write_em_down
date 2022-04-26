@@ -1,12 +1,4 @@
-// Returns string of li elements for each item in the given list object.
-const renderCard = (list) => {
-    return list.items.map(
-       (item) => `<li class="list-group-item">${item.toString()}</li>`
-    );
-  };
-  
-  const generateCard = (list) => {
-    return `<!DOCTYPE html>
+<!DOCTYPE html>
     <html lang="en">
     
     <head>
@@ -27,13 +19,11 @@ const renderCard = (list) => {
                 <h2>title</h2>
             </div>
             <ul class="list-group list-group-flush">
-                ${renderCard}
+                <li class="list-group-item">Name:</li>
+                <li class="list-group-item">Id Number:</li>
+                <li class="list-group-item">Email:</li>
             </ul>
         </div>
         
     </body>
-    </html>`;
-  };
-
-  module.exports = generateCard;
-  
+    </html>
