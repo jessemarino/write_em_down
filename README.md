@@ -36,7 +36,7 @@ To run tests, run the following command:
 ```
 
 ### Questions
-My email is jessemarino2015@gmail.com if you have any questions.
+
 
 
 ![screenshot](./assets/images/Screen%20Shot%202022-04-25%20at%209.47.56%20PM.png)
