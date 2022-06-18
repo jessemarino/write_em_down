@@ -3,7 +3,7 @@
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Description
-My motivation for this project was to make a Team tracker that could help someone keep an organized list of their team. I built this to test my skills as a developer. If this application work as designed it would solve the problem for someone that can't keep their personel straight. I learned that I need to study more so I can submit a completed project. 
+My motivation for this project was to make a team tracker that could help someone keep an organized list of their team. 
 
 ## Table of Contents 
 
@@ -36,7 +36,7 @@ To run tests, run the following command:
 ```
 
 ### Questions
-My email is jessemarino2015@gmail.com if you have any questions.
+
 
 
 ![screenshot](./assets/images/Screen%20Shot%202022-04-25%20at%209.47.56%20PM.png)
